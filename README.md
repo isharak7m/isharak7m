@@ -53,13 +53,16 @@
 
 ### 📊 GitHub Stats
 
-![isharak7m's GitHub stats](https://github-readme-stats.vercel.app/api?username=isharak7m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=isharak7m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharak7m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" /></td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isharak7m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isharak7m&theme=tokyonight&hide_border=true&background=0d1117&ring=8957e8&fire=8957e8" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isharak7m&theme=tokyonight&hide_border=true&background=0d1117&ring=8957e8&fire=8957e8&currStreakLabel=a5b4fc&sideLabels=f9fafb&currStreakNum=f9fafb&sideNums=a5b4fc&dates=6b7280)
-
-![isharak7m's Graph](https://github-readme-graph.vercel.app/api?username=isharak7m&bg_color=0d1117&color=a5b4fc&hide_border=true)
+<img src="https://github-readme-graph.vercel.app/api?username=isharak7m&bg_color=0d1117&color=a5b4fc&hide_border=true" alt="GitHub Graph" />
 
 ---
 
