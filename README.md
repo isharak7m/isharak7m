@@ -112,7 +112,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharak7m&theme=tokyonight&hide_border=true&background=0d1117&ring=8957e8&fire=8957e8&currStreakLabel=a5b4fc&sideLabels=f9fafb&currStreakNum=f9fafb&sideNums=a5b4fc&dates=6b7280" alt="GitHub Streak" />
 
-<img src="https://github-readme-graph.vercel.app/api?username=isharak7m&bg_color=0d1117&color=a5b4fc&hide_border=true&point=8957e8&line=8957e8&area_color=a5b4fc&area=true" alt="GitHub Graph" />
+<img src="https://github-readme-graph.vercel.app?username=isharak7m&bg_color=0d1117&color=a5b4fc&hide_border=true&point=8957e8&line=8957e8&area_color=a5b4fc&area=true" alt="GitHub Graph" />
 
 ---
 
@@ -134,5 +134,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8957E8&center=true&vCenter=true&width=350&lines=Thanks+for+visiting!;Let's+build+something+great." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8957E8&center=true&vCenter=true&width=350&lines=Thanks+for+visiting!;Let's+build+something+great." alt="Footer Typing SVG" />
 </p>
