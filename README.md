@@ -69,27 +69,92 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### <a href="https://github.com/isharak7m/NumJ">JNumj</a> — Numerical Computing Library
-
-`Java 21` `Gradle` `JUnit 5` `JMH` `GitHub Actions`
-
-- Zero-dependency library: **18 packages** — N-D arrays, 17 dtypes, linear algebra, autodiff, broadcasting, statistics, I/O
-- Type-safe computation engine with sealed interfaces; **~108 JUnit 5 tests** + JMH benchmarks
-- **Published to Maven Central** as `io.github.isharak7m:jnumj:0.1.0`
-
-</td>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/isharak7m/forge">Forge</a> — AI Fitness Platform
+<a href="https://github.com/isharak7m/forge">
+<img src="https://socialify.git.ci/isharak7m/forge/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
+</a>
 
 `Java 21` `Spring Boot` `PostgreSQL` `React` `Docker`
 
-- **29 REST endpoints** with JWT auth, Flyway migrations, Swagger/OpenAPI
-- **4 ML models** from scratch: regression, anomaly detection, strength modeling
-- Strategy-pattern AI tool system with 4 coaching tools
-- Full-stack PWA with CI/CD to Render + Vercel
+> **29 REST endpoints** · **4 ML models** from scratch · Strategy-pattern AI system · Full-stack PWA with CI/CD
+
+<a href="https://github.com/isharak7m/forge"><img src="https://img.shields.io/badge/VIEW_REPO-8957E8?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/isharak7m/forge"><img src="https://img.shields.io/github/stars/isharak7m/forge?style=for-the-badge&color=F7B731&label=Stars"/></a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/isharak7m/NumJ">
+<img src="https://socialify.git.ci/isharak7m/NumJ/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
+</a>
+
+`Java 21` `Gradle` `JUnit 5` `JMH` `GitHub Actions`
+
+> **18 packages** · N-D arrays, 17 dtypes, linear algebra, autodiff · **~108 JUnit 5 tests** · **Published to Maven Central**
+
+<a href="https://github.com/isharak7m/NumJ"><img src="https://img.shields.io/badge/VIEW_REPO-00B8A3?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/isharak7m/NumJ"><img src="https://img.shields.io/github/stars/isharak7m/NumJ?style=for-the-badge&color=F7B731&label=Stars"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/isharak7m/artemis">
+<img src="https://socialify.git.ci/isharak7m/artemis/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
+</a>
+
+`Python` `Android` `AI Agents`
+
+> NL instructions → reliable Android automation · **99%+ success** on AndroidWorld Benchmark · Integrates with Claude Code & Codex
+
+<a href="https://github.com/isharak7m/artemis"><img src="https://img.shields.io/badge/VIEW_REPO-FF375F?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/isharak7m/artemis"><img src="https://img.shields.io/github/stars/isharak7m/artemis?style=for-the-badge&color=F7B731&label=Stars"/></a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/isharak7m/odysseus">
+<img src="https://socialify.git.ci/isharak7m/odysseus/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
+</a>
+
+`Python` `AI/ML` `Self-Hosted`
+
+> Self-hosted AI workspace · Local-first architecture · Full data control · Personal productivity hub
+
+<a href="https://github.com/isharak7m/odysseus"><img src="https://img.shields.io/badge/VIEW_REPO-F7B731?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/isharak7m/odysseus"><img src="https://img.shields.io/github/stars/isharak7m/odysseus?style=for-the-badge&color=F7B731&label=Stars"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/isharak7m/medical_rag">
+<img src="https://socialify.git.ci/isharak7m/medical_rag/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
+</a>
+
+`Python` `RAG` `NLP`
+
+> Retrieval-Augmented Generation for medical docs · Context-aware Q&A · Intelligent document parsing
+
+<a href="https://github.com/isharak7m/medical_rag"><img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/isharak7m/medical_rag"><img src="https://img.shields.io/github/stars/isharak7m/medical_rag?style=for-the-badge&color=F7B731&label=Stars"/></a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/isharak7m/maia-reproduction">
+<img src="https://socialify.git.ci/isharak7m/maia-reproduction/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
+</a>
+
+`Python` `Deep Learning` `Research`
+
+> Maia chess engine reproduction · Neural network training pipeline · Chess move prediction
+
+<a href="https://github.com/isharak7m/maia-reproduction"><img src="https://img.shields.io/badge/VIEW_REPO-A5B4FC?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/isharak7m/maia-reproduction"><img src="https://img.shields.io/github/stars/isharak7m/maia-reproduction?style=for-the-badge&color=F7B731&label=Stars"/></a>
 
 </td>
 </tr>
