@@ -101,36 +101,6 @@
 <tr>
 <td width="50%">
 
-<a href="https://github.com/isharak7m/artemis">
-<img src="https://socialify.git.ci/isharak7m/artemis/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
-</a>
-
-`Python` `Android` `AI Agents`
-
-> NL instructions → reliable Android automation · **99%+ success** on AndroidWorld Benchmark · Integrates with Claude Code & Codex
-
-<a href="https://github.com/isharak7m/artemis"><img src="https://img.shields.io/badge/VIEW_REPO-FF375F?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/isharak7m/artemis"><img src="https://img.shields.io/github/stars/isharak7m/artemis?style=for-the-badge&color=F7B731&label=Stars"/></a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/isharak7m/odysseus">
-<img src="https://socialify.git.ci/isharak7m/odysseus/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
-</a>
-
-`Python` `AI/ML` `Self-Hosted`
-
-> Self-hosted AI workspace · Local-first architecture · Full data control · Personal productivity hub
-
-<a href="https://github.com/isharak7m/odysseus"><img src="https://img.shields.io/badge/VIEW_REPO-F7B731?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/isharak7m/odysseus"><img src="https://img.shields.io/github/stars/isharak7m/odysseus?style=for-the-badge&color=F7B731&label=Stars"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 <a href="https://github.com/isharak7m/medical_rag">
 <img src="https://socialify.git.ci/isharak7m/medical_rag/image?font=KoHo&language=1&languageColor=8957E8&name=1&owner=0&pattern=Charlie%20Brown&theme=Dark" width="100%"/>
 </a>
