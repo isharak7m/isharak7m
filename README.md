@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8957E8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Hey%2C+I'm+Ishrak+M+%F0%9F%91%8B;Backend+Developer+%7C+Java+%7C+Python+%7C+REST+APIs+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=8957E8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=435&height=60&lines=Hey%2C+I'm+Ishrak+M+%F0%9F%91%8B;Backend+Developer" alt="Typing SVG" />
 </h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=a5b4fc&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=450&height=40&lines=Java+%7C+Python+%7C+REST+APIs;Open+Source+Contributor+%7C+363%2B+LeetCode;Maven+Central+Published+Author" alt="Roles SVG" />
+</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/8xJuqWzFfD/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
