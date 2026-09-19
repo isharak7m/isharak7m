@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Ishrak M 👋</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Engineer — Backend to ML & Beyond</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=a5b4fc&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=500&height=40&lines=Java+%7C+Python+%7C+REST+APIs;Open+Source+Contributor;363%2B+LeetCode+Solved;Maven+Central+Published" alt="Typing SVG" />
