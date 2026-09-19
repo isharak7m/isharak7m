@@ -119,11 +119,17 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=isharak7m&theme=tokyonight&hide_border=true&background=0D1117&ring=8957E8&fire=8957E8&currStreakLabel=a5b4fc&sideLabels=f9fafb&dates=6b7280" alt="GitHub Streak"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=isharak7m&bg_color=0D1117&color=8957E8&line=8957E8&point=FFFFFF&area=true&hide_border=true&area_color=a5b4fc" alt="GitHub Activity Graph"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isharak7m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8957E8&icon_color=a5b4fc&text_color=f9fafb&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isharak7m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8957E8&text_color=f9fafb&langs_count=8" alt="Top Languages"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8957E8/isharak7m" alt="GitHub Contributions"/>
 </p>
 
 ---
