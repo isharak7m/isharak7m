@@ -1,15 +1,13 @@
-<h1 align="center">Hey, I'm Mohamed Ishrak M 👋</h1>
-
-<h3 align="center">Final-Year CS Undergrad | Software Engineer</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8957E8&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Python+%7C+REST+APIs;Open+Source+Contributor;350%2B+LeetCode+Solved" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8957E8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Hey%2C+I'm+Mohamed+Ishrak+M+%F0%9F%91%8B;Backend+Developer+%7C+Java+%7C+Python+%7C+REST+APIs+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isharak7m&color=8957E8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://leetcode.com/u/8xJuqWzFfD/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/isharak-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/isharak7m"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:isharak7m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=isharak7m&color=8957E8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
@@ -18,10 +16,8 @@
 
 - 🎓 B.Tech CS & Business Systems @ **Sri Krishna College of Engineering and Technology** (2023–2027)
 - 🏗️ I build production-grade systems — from a **zero-dependency numerical library on Maven Central** to a **full-stack AI-powered fitness platform**
-- 🧩 **350+ problems** solved on [LeetCode](https://leetcode.com/u/8xJuqWzFfD/)
+- 🧩 **363+ problems** solved on [LeetCode](https://leetcode.com/u/8xJuqWzFfD/)
 - 📫 **isharak7m@gmail.com** · [LinkedIn](https://www.linkedin.com/in/isharak-m/) · [LeetCode](https://leetcode.com/u/8xJuqWzFfD/)
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/73097560/115826655-3778ad80-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -101,35 +97,43 @@
 
 ---
 
+### 🏅 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/8xJuqWzFfD/">
+    <img width="60%" src="https://leetcard.jacoblin.cool/8xJuqWzFfD?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-363+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Easy-128-00B8A3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medium-206-F7B731?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hard-29-FF375F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rank-376401-8957E8?style=for-the-badge"/>
+</p>
+
+---
+
 ### 📊 Stats
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=isharak7m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8957E8&icon_color=a5b4fc" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharak7m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8957E8" alt="Top Languages" /></td>
-</tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=isharak7m&theme=tokyonight&hide_border=true&background=0D1117&ring=8957E8&fire=8957E8&currStreakLabel=a5b4fc&sideLabels=f9fafb&dates=6b7280" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=isharak7m&bg_color=0D1117&color=8957E8&line=8957E8&point=FFFFFF&area=true&hide_border=true&area_color=a5b4fc" alt="GitHub Activity Graph"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isharak7m&theme=tokyonight&hide_border=true&background=0d1117&ring=8957e8&fire=8957e8&currStreakLabel=a5b4fc&sideLabels=f9fafb&currStreakNum=f9fafb&sideNums=a5b4fc&dates=6b7280" alt="GitHub Streak" />
-
-<img src="https://github-readme-graph.vercel.app?username=isharak7m&bg_color=0d1117&color=a5b4fc&hide_border=true&point=8957e8&line=8957e8&area_color=a5b4fc&area=true" alt="GitHub Graph" />
+<p align="center">
+  <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isharak7m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8957E8&text_color=f9fafb&langs_count=8" alt="Top Languages"/>
+</p>
 
 ---
 
 ### 📫 Connect
 
-<a href="https://www.linkedin.com/in/isharak-m/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/8xJuqWzFfD/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://github.com/isharak7m">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:isharak7m@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isharak-m/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/8xJuqWzFfD/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isharak7m)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isharak7m@gmail.com)
 
 ---
 
