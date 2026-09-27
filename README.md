@@ -20,7 +20,7 @@
 
 - 🎓 B.Tech CS & Business Systems @ **Sri Krishna College of Engineering and Technology** (2023–2027)
 - 🏗️ I build production-grade systems — from a **zero-dependency numerical library on Maven Central** to a **full-stack AI-powered fitness platform**
-- 🧩 ![LeetCode Solved](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/8xJuqWzFfD/solved&label=Problems%20Solved&query=%24.solvedProblem&color=FFA116&logo=leetcode&logoColor=black&style=flat-square&cacheSeconds=3600) on [LeetCode](https://leetcode.com/u/8xJuqWzFfD/)
+- 🧩 ![LeetCode](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/8xJuqWzFfD/solved&label=&query=%24.solvedProblem&suffix=%20problems%20solved&color=inactive&style=flat-square&cacheSeconds=3600) on [LeetCode](https://leetcode.com/u/8xJuqWzFfD/)
 - 📫 **isharak7m@gmail.com** · [LinkedIn](https://www.linkedin.com/in/isharak-m/) · [LeetCode](https://leetcode.com/u/8xJuqWzFfD/)
 
 ---
