@@ -1,4 +1,4 @@
-<h1 align="center">Ishrak M</h1>
+<h1 align="center">Isharak M</h1>
 
 <h3 align="center">Software Engineer</h3>
 
